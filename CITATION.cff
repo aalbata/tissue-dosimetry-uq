@@ -9,10 +9,12 @@ license: MIT
 preferred-citation:
   type: article
   title: "Database-Traceable Uncertainty Quantification for Layered-Tissue RF Dosimetry"
+  journal: "IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology"
   status: submitted
   authors:
     - family-names: "AlZaabi"
       given-names: "Fatima"
+      affiliation: "Independent Researcher, United Arab Emirates"
     - family-names: "Al Bataineh"
       given-names: "Ali"
       affiliation: "Norwich University, Northfield, VT, USA"
