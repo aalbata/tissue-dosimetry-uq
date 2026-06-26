@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Generated analysis artifacts (reproducible from the scripts)
+revision_results.json
+eq_dims.json
+eq_*.png
+
+# IT'IS data (downloaded at runtime, not redistributed)
+*.xls
+*.xlsx
+*.zip
+Database-V5-0*
+
+# LaTeX / build leftovers
+*.aux
+*.log
+*.bbl
+*.blg
+*.out

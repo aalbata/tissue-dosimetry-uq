@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper (under review)."
+title: "tissue-dosimetry-uq"
+authors:
+  - family-names: "Al Bataineh"
+    given-names: "Ali"
+    affiliation: "Norwich University, Northfield, VT, USA"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Database-Traceable Uncertainty Quantification for Layered-Tissue RF Dosimetry"
+  status: submitted
+  authors:
+    - family-names: "AlZaabi"
+      given-names: "Fatima"
+    - family-names: "Al Bataineh"
+      given-names: "Ali"
+      affiliation: "Norwich University, Northfield, VT, USA"
