@@ -1,4 +1,4 @@
-# Database-Traceable Uncertainty Quantification for Layered-Tissue RF Dosimetry
+# Traceable Uncertainty Quantification for Layered-Tissue RF Dosimetry
 
 Code for quantifying how the uncertainty in tabulated tissue properties propagates
 to the specific absorption rate (SAR) and the steady-state temperature rise in a
